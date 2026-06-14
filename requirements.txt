@@ -3,6 +3,6 @@ openai-whisper
 torch
 opencv-python-headless
 numpy
-Pillow
-SpeechRecognition
+pillow
 ultralytics
+mediapipe
