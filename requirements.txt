@@ -1,8 +1,12 @@
-streamlit
-openai-whisper
-torch
-opencv-python-headless
-numpy
-pillow
-ultralytics
-mediapipe
+
+app.py
+ requirements.txt
+ runtime.txt      
+ alerts.py
+ speech.py
+ vision.py
+ gestures.py
+ utils.py
+ yolov8n.pt
+yolov8s.pt
+hand_landmarker.task
