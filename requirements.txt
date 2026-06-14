@@ -1,7 +1,7 @@
-# Generated requirements for the NVIDIA project
-opencv-python
+streamlit
+openai-whisper
+torch
+opencv-python-headless
 numpy
-sounddevice
-pyttsx3
-pywin32
-whisper
+Pillow
+SpeechRecognition
