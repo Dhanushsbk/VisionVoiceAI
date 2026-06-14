@@ -1,12 +1,8 @@
-
-app.py
- requirements.txt
- runtime.txt      
- alerts.py
- speech.py
- vision.py
- gestures.py
- utils.py
- yolov8n.pt
-yolov8s.pt
-hand_landmarker.task
+streamlit
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+pillow
+torch==2.4.1
+ultralytics
+openai-whisper
+mediapipe==0.10.14
